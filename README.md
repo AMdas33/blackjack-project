@@ -88,10 +88,6 @@ This project is a beginner-friendly implementation of Blackjack and was created 
 
 ---
 
-## 🔗 License
 
-MIT License
-
----
 
 ### 🎉 Enjoy the game & feel free to contribute!
